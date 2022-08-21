@@ -1,0 +1,15 @@
+#container{
+    display: grid;
+    grid-template-rows: auto;
+    width: 960px;
+    aspect-ratio: 1/1;
+}
+
+.square{
+    border: 1px solid black;
+    aspect-ratio: 1/1;
+}
+
+.coloredSquare{
+    background-color: red;
+}
